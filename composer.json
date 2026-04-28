@@ -1,15 +1,15 @@
 {
-    "name": "indracollective/laravel-revisor-filament",
+    "name": "hrvoje-herceg/laravel-revisor-filament",
     "description": "Robust Draft, Publishing & Versioning for Laravel Filament Resources",
     "keywords": [
         "indracollective",
         "laravel",
         "laravel-revisor-filament"
     ],
-    "homepage": "https://github.com/indracollective/laravel-revisor-filament",
+    "homepage": "https://github.com/hrvoje-herceg/laravel-revisor-filament",
     "support": {
-        "issues": "https://github.com/indracollective/laravel-revisor-filament/issues",
-        "source": "https://github.com/indracollective/laravel-revisor-filament"
+        "issues": "https://github.com/hrvoje-herceg/laravel-revisor-filament/issues",
+        "source": "https://github.com/hrvoje-herceg/laravel-revisor-filament"
     },
     "license": "MIT",
     "authors": [
